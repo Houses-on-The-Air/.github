@@ -10,4 +10,4 @@ Houses on The Air (HOTA) is an amateur radio activity that encourages operators 
 
 ## Licence
 
-All repos and code is available under the [MIT Licence[(https://opensource.org/license/mit).
+All repos and code is available under the [MIT Licence](https://opensource.org/license/mit).
