@@ -7,6 +7,7 @@ Houses on The Air (HOTA) is an amateur radio activity that encourages operators 
 * [hota.org.uk](https://github.com/Houses-on-The-Air/hota.org.uk) 
 * [Azure-Infra](https://github.com/Houses-on-The-Air/Azure-Infra)
 * [ADIF-to-SQL-Parser](https://github.com/Houses-on-The-Air/ADIF-to-SQL-Parser)
+* [adif-parser-service](https://github.com/Houses-on-The-Air/adif-parser-service)
 
 ## Licence
 
